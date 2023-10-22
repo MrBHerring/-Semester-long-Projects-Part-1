@@ -1,7 +1,7 @@
 # -Semester-long-Projects-Part-1
 
 This assignment was locked Sep 22 at 11:59pm.
-Introduction to the Dataset: The police shootings data to be used in this project is from the database maintained by Washington Post at https://github.com/washingtonpost/data-police-shootingsLinks to an external site. that covers the period 2015-2019.
+Introduction to the Dataset: The police shootings data to be used in this project is from the database maintained by Washington Post at https://github.com/washingtonpost/data-police-shootings to an external site. that covers the period 2015-2019.
 The variables in this dataset are:
 
 #	Variable/ Attribute/ Feature	Meaning
